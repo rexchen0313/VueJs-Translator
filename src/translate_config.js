@@ -4,11 +4,11 @@ const Support_Language_Config= [
     value: 'en'
   },
   {
-    text: '韓語',
+    text: '韓文',
     value: 'ko'
   },
   {
-    text: '日語',
+    text: '日文',
     value: 'ja'
   },
   {
