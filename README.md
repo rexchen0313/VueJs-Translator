@@ -1,4 +1,4 @@
-# Translator
+# Traduction
 
 本練習作品基於 Vue.js (vue-cli 2) 與 Yandex Translate API 製作而成
 
