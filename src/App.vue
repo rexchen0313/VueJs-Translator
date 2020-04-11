@@ -28,7 +28,6 @@
     },
     methods: {
       textTraslate(text, language) {
-        console.log(213);
         if (text.length > 0 && text != this.lastTimeTranslateText) { 
           const KEY = process.env.VUE_APP_APIKEY;
           const API = `https://translate.yandex.net/api/v1.5/tr.json/translate?key=${KEY}&text=${text}&lang=${language}`;
